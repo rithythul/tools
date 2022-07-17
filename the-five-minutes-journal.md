@@ -1,3 +1,5 @@
+# Template for Journal 
+
 ```
 <!--
 Based on the journaling method created by Intelligent Change:
