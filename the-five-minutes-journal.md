@@ -1,3 +1,4 @@
+```
 <!--
 Based on the journaling method created by Intelligent Change:
 - [Intelligent Change: Our Story](https://www.intelligentchange.com/pages/our-story)
@@ -39,3 +40,5 @@ I am...
 ### How could I have made today even better?
 
 I could have made today better by
+
+```
