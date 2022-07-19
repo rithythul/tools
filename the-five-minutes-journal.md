@@ -1,4 +1,4 @@
-# Template for Journal 
+# Template for Journal
 
 ```
 <!--
@@ -44,3 +44,5 @@ I am...
 I could have made today better by
 
 ```
+
+# have a great journey
